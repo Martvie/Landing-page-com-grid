@@ -1,2 +1,2 @@
 # landing-page-com-grid-agencia-xyz
-Estrutura inicial do Projeto de Landing Page com Grid do curso DevQuest.
+Projeto de Landing Page usando grid desenvolvida durante a DevQuest.
