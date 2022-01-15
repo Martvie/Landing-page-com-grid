@@ -93,13 +93,12 @@
     .header nav {
         position: absolute;
         top: 8px;
-        right: 20px;
+        right: 15px;
         z-index: 1;
     }
 
     .header nav ul {
         width: 200px;
-        color: white;
         padding: 20px;
     }
     
@@ -107,5 +106,6 @@
         text-align: center;
         padding: 20px;
         display: block;
+        color: white;
     }
 }
